@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Lesly Sierra, I.M.",
+    "title": "Lesly M. Sierra Fontalvo",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Soy ingeniera mecánica y actualmente profesora catedrática en el departamento de ingeniería mecánica, Universidad del Norte, Barranquilla. Mis intereses de investigación incluyen obsolescencia, diseño de productos circular y metodologías de diseño para X.\nEstoy estudiando una maestría en ingeniería mecánica relacionada con metodologías de diseño de productos circulares en la Universidad del Norte. He realizado investigaciones sobre obsolescencia, métricas de circular de productos de base biológica y eficiencia energética en camiones mineros."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Si quieres saber más información acerca de mi visita mis redes sociales."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -23,8 +23,36 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Hoja de vida",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "En este post puedes encontrar mi hoja de vida.\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html#experiencia-laboral",
+    "href": "index.html#experiencia-laboral",
+    "title": "Lesly M. Sierra Fontalvo",
+    "section": "Experiencia laboral",
+    "text": "Experiencia laboral\n\nDocente catedrática.\n\nProfesora de laboratorio en la asignatura ciencia de los materiales\nUniversidad del norte, Puerto Colombia, Atlántico, Colombia.\nEnero 2024 - Actual\nProfesora de laboratorio en la asignatura procesos de fabricación\nUniversidad del norte, Puerto Colombia, Atlántico, Colombia\nJulio 2023 - Noviembre 2023.\n\n\n\nAsistente de investigación\n\nProyecto: Evaluación del potencial bioeconómico y de circularidad del bioaceite y el biochar a partir de la pirólisis rápida de la biomasa\nUniversidad del norte, Puerto Colombia, Atlántico, Colombia.\nJunio 2023 - Enero 2024\nProyecto: Diseño de un modelo para el diagnóstico de la obsolescencia de productos\nUniversidad del norte, Puerto Colombia, Atlántico, Colombia.\nDiciembre 2022 - Diciembre 2023\n\n\n\nIngeniera de proyectos\n\nResumen: Coordinadora técnica en el proyecto denominado “evaluación de alternativas para el accionamiento bajo en carbono de la flota de camiones mineros en Cerro Matoso: diésel/hidrógeno, gas natural e hibrido (fase I)”.\nUniversidad del norte, Puerto Colombia, Atlántico, Colombia.\nOctubre 2022 – Abril 2023."
+  },
+  {
+    "objectID": "index.html#publicaciones",
+    "href": "index.html#publicaciones",
+    "title": "Lesly M. Sierra Fontalvo",
+    "section": "Publicaciones",
+    "text": "Publicaciones\n\nSierra-Fontalvo, L., Polo-Cardozo, J., Maury-Ramírez, H., & Mesa, J. A. (2024). Diagnosing remanufacture potential at product-component level: A disassemblability and integrity approach. Resources, Conservation and Recycling, 205, 107529. https://doi.org/10.1016/j.resconrec.2024.107529\nMesa, J. A., Sierra-Fontalvo, L., Ortegon, K., & Gonzalez-Quiroga, A. (2024). Advancing circular bioeconomy: A critical review and assessment of indicators. Sustainable Production and Consumption, 46, 324-342. https://doi.org/10.1016/j.spc.2024.03.006\nSierra-Fontalvo, L., Gonzalez-Quiroga, A., & Mesa, J. A. (2023). A deep dive into addressing obsolescence in product design: A review. Heliyon, 9(11), e21856. https://doi.org/10.1016/j.heliyon.2023.e21856"
+  },
+  {
+    "objectID": "index.html#perfil-profesional",
+    "href": "index.html#perfil-profesional",
+    "title": "Lesly M. Sierra Fontalvo",
+    "section": "Perfil profesional",
+    "text": "Perfil profesional\n\nSoy ingeniera mecánica y actualmente profesora catedrática en el departamento de ingeniería mecánica, Universidad del Norte, Barranquilla. Mis intereses de investigación incluyen obsolescencia, diseño de productos circular y metodologías de diseño para X.\nEstoy estudiando una maestría en ingeniería mecánica relacionada con metodologías de diseño de productos circulares en la Universidad del Norte. He realizado investigaciones sobre obsolescencia, métricas de circular de productos de base biológica y eficiencia energética en camiones mineros."
+  },
+  {
+    "objectID": "index.html#acerca-de-mi",
+    "href": "index.html#acerca-de-mi",
+    "title": "Lesly M. Sierra Fontalvo",
+    "section": "Acerca de mi",
+    "text": "Acerca de mi\n\nSoy ingeniera mecánica y actualmente profesora catedrática en el departamento de ingeniería mecánica, Universidad del Norte, Barranquilla. Mis intereses de investigación incluyen obsolescencia, diseño de productos circulares y metodologías de diseño para X.\nEstoy estudiando una maestría en ingeniería mecánica relacionada con pronosticar el riesgo de obsolescencia de un producto a partir de sus atributos de diseño. He realizado investigaciones sobre obsolescencia, métricas de circularidad de productos de base biológica y eficiencia energética en camiones mineros."
   }
 ]

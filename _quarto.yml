@@ -19,11 +19,11 @@ website:
   navbar:
     right:
       - icon: newspaper
-        href: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7129591797797797888
+        href: https://scholar.google.com/citations?user=QMgnwJsAAAAJ&hl=es&oi=ao
       - icon: github
-        href: https://github.com/beatrizmilz/blog-en
+        href: https://github.com/LeslyMSF/
       - icon: linkedin
-        href: https://www.linkedin.com/in/beatrizmilz/
+        href: https://www.linkedin.com/in/lesly-sierra-fontalvo/
 
 lang: "es"
 

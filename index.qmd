@@ -1,5 +1,6 @@
 ---
 title: "Lesly M. Sierra Fontalvo"
+subtitle: "Ingeniera mecánica"
 listing:
   contents: post
   sort: "date desc"

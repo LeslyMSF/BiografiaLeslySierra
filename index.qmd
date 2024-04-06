@@ -19,56 +19,67 @@ editor:
   markdown: 
     wrap: sentence
 ---
----
+
+------------------------------------------------------------------------
 
 ## Acerca de mi
 
 ::: {style="text-align: justify"}
+Soy ingeniera mecánica y actualmente profesora catedrática en el departamento de ingeniería mecánica, Universidad del Norte, Barranquilla.
+Mis intereses de investigación incluyen obsolescencia, diseño de productos circulares y metodologías de diseño para X.
 
-Soy ingeniera mecánica y actualmente profesora catedrática en el departamento de ingeniería mecánica, Universidad del Norte, Barranquilla. Mis intereses de investigación incluyen obsolescencia, diseño de productos circulares y metodologías de diseño para X.
-
-Estoy estudiando una maestría en ingeniería mecánica relacionada con pronosticar el riesgo de obsolescencia de un producto a partir de sus atributos de diseño. He realizado investigaciones sobre obsolescencia, métricas de circularidad de productos de base biológica y eficiencia energética en camiones mineros.
-
+Estoy estudiando una maestría en ingeniería mecánica relacionada con pronosticar el riesgo de obsolescencia de un producto a partir de sus atributos de diseño.
+He realizado investigaciones sobre obsolescencia, métricas de circularidad de productos de base biológica y eficiencia energética en camiones mineros.
 :::
 
----
+------------------------------------------------------------------------
 
 ## Experiencia laboral
 
 #### Docente catedrática.
 
-* Profesora de laboratorio en la asignatura ciencia de los materiales \
-Universidad del norte, Puerto Colombia, Atlántico, Colombia.\
-Enero 2024 - Actual
+-   Profesora de laboratorio en la asignatura ciencia de los materiales\
+    Universidad del norte, Puerto Colombia, Atlántico, Colombia.\
+    Enero 2024 - Actual
 
-* Profesora de laboratorio en la asignatura procesos de fabricación \
-Universidad del norte, Puerto Colombia, Atlántico, Colombia \
-Julio 2023 - Noviembre 2023.
+-   Profesora de laboratorio en la asignatura procesos de fabricación\
+    Universidad del norte, Puerto Colombia, Atlántico, Colombia\
+    Julio 2023 - Noviembre 2023.
 
 #### Asistente de investigación
 
-* Proyecto: Evaluación del potencial bioeconómico y de circularidad del bioaceite y el biochar a partir de la pirólisis rápida de la biomasa \
-Universidad del norte, Puerto Colombia, Atlántico, Colombia.\
-Junio 2023 - Enero 2024
+-   Proyecto: Evaluación del potencial bioeconómico y de circularidad del bioaceite y el biochar a partir de la pirólisis rápida de la biomasa\
+    Universidad del norte, Puerto Colombia, Atlántico, Colombia.\
+    Junio 2023 - Enero 2024
 
-* Proyecto: Diseño de un modelo para el diagnóstico de la obsolescencia de productos \
-Universidad del norte, Puerto Colombia, Atlántico, Colombia.\
-Diciembre 2022 - Diciembre 2023
+-   Proyecto: Diseño de un modelo para el diagnóstico de la obsolescencia de productos\
+    Universidad del norte, Puerto Colombia, Atlántico, Colombia.\
+    Diciembre 2022 - Diciembre 2023
 
 #### Ingeniera de proyectos
 
 ::: {style="text-align: justify"}
-
 Resumen: Coordinadora técnica en el proyecto denominado “evaluación de alternativas para el accionamiento bajo en carbono de la flota de camiones mineros en Cerro Matoso: diésel/hidrógeno, gas natural e hibrido (fase I)”.\
 Universidad del norte, Puerto Colombia, Atlántico, Colombia.\
 Octubre 2022 – Abril 2023.
-
 :::
 
 ## Publicaciones
 
-1.  **Sierra-Fontalvo, L.**, Polo-Cardozo, J., Maury-Ramírez, H., & Mesa, J. A. (2024). Diagnosing remanufacture potential at product-component level: A disassemblability and integrity approach. Resources, Conservation and Recycling, 205, 107529. https://doi.org/10.1016/j.resconrec.2024.107529
+1.  **Sierra-Fontalvo, L.**, Polo-Cardozo, J., Maury-Ramírez, H., & Mesa, J. A.
+    (2024).
+    Diagnosing remanufacture potential at product-component level: A disassemblability and integrity approach.
+    Resources, Conservation and Recycling, 205, 107529.
+    https://doi.org/10.1016/j.resconrec.2024.107529
 
-2.  Mesa, J. A., **Sierra-Fontalvo, L.**, Ortegon, K., & Gonzalez-Quiroga, A. (2024). Advancing circular bioeconomy: A critical review and assessment of indicators. Sustainable Production and Consumption, 46, 324-342. https://doi.org/10.1016/j.spc.2024.03.006
+2.  Mesa, J. A., **Sierra-Fontalvo, L.**, Ortegon, K., & Gonzalez-Quiroga, A.
+    (2024).
+    Advancing circular bioeconomy: A critical review and assessment of indicators.
+    Sustainable Production and Consumption, 46, 324-342.
+    https://doi.org/10.1016/j.spc.2024.03.006
 
-3.  **Sierra-Fontalvo, L.**, Gonzalez-Quiroga, A., & Mesa, J. A. (2023). A deep dive into addressing obsolescence in product design: A review. Heliyon, 9(11), e21856. https://doi.org/10.1016/j.heliyon.2023.e21856
+3.  **Sierra-Fontalvo, L.**, Gonzalez-Quiroga, A., & Mesa, J. A.
+    (2023).
+    A deep dive into addressing obsolescence in product design: A review.
+    Heliyon, 9(11), e21856.
+    https://doi.org/10.1016/j.heliyon.2023.e21856
